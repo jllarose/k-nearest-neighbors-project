@@ -18,6 +18,7 @@ def get_movie_recommendations(movie_title, model, tfidf_matrix, encoded_data_df)
     
     return similar_movies[1:]
 
+
 if __name__ == '__main__':
 
     # Load the assets
