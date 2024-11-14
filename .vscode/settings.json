@@ -2,5 +2,10 @@
     "workbench.startupEditor": "readme",
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor"
-    }
+    },
+    "cSpell.words": [
+        "kneighbors",
+        "Tfidf",
+        "Vectorize"
+    ]
 }
